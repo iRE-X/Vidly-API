@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey": "vidly_jwtPrivateKey",
+    "db": "mongodb://localhost/vidly",
+    "frontEndOrigin": "http://localhost:3000",
+    "requireAuth": true
+}
