@@ -1,6 +1,9 @@
 {
     "jwtPrivateKey": "vidly_jwtPrivateKey",
     "db": "mongodb://localhost/vidly",
-    "frontEndOrigin": "http://localhost:3000",
+    "frontEndOrigin": [
+        "http://localhost:3000",
+        "https://irex-vidly.netlify.app"
+    ],
     "requireAuth": true
 }
