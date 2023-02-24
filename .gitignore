@@ -1,5 +1,6 @@
 node_modules/
 coverage/
 
-logfile.log
+
 unhandeledExceptions.log
+logfile.log
