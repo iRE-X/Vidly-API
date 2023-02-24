@@ -1395,3 +1395,5 @@
 {"level":"info","message":"\u001b[32mConnected to Database\u001b[39m","timestamp":"2023-02-24T07:03:17.797Z"}
 {"level":"info","message":"Listening on port 8080...","timestamp":"2023-02-24T07:07:18.179Z"}
 {"level":"info","message":"\u001b[32mConnected to Database\u001b[39m","timestamp":"2023-02-24T07:07:18.230Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2023-02-24T13:41:57.576Z"}
+{"level":"info","message":"\u001b[32mConnected to Database\u001b[39m","timestamp":"2023-02-24T13:41:57.611Z"}
